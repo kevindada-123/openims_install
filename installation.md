@@ -47,7 +47,8 @@ svn checkout https://svn.code.sf.net/p/openimscore/code/ser_ims/trunk ser_ims
 
 ```
 - Create a new directory FHoSS and checkout the HSS there
-```$svn checkout https://svn.code.sf.net/p/openimscore/code/FHoSS/trunk FHoSS
+```
+svn checkout https://svn.code.sf.net/p/openimscore/code/FHoSS/trunk FHoSS
 ```
 ## Step 2: Compile
 ### ser_ims
